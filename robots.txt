@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://donald-peru.github.io/vapeinsights/sitemap.xml
+         
